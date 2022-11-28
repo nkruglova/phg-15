@@ -1,7 +1,9 @@
+
+console.log("run!")
+
 const fetch = require("node-fetch");
 const express = require("express");
 const axios = require("axios");
-console.log("run!")
 
 const ids = [
     "3e756452-5772-11ed-e795-0050568313a7",
